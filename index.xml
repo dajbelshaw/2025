@@ -6,12 +6,12 @@
 	<!-- Update the details below with those of the cloned repository -->
 	<channel>
 		<image>
-  		<url>https://github.com/dajbelshaw/styled-rss/blob/main/img/rss-icon.png?raw=true</url>
+  		<url>https://github.com/dajbelshaw/2025/blob/main/img/rss-icon.png?raw=true</url>
   		<title>Logo</title>
-		<link>https://dajbelshaw.github.io/styled-rss</link>
+		<link>https://dajbelshaw.github.io/2025</link>
 		</image>
-		<title>Title</title>
-		<link>https://dajbelshaw.github.io/styled-rss</link>
+		<title>2025</title>
+		<link>https://dajbelshaw.github.io/2025</link>
  		<description>Description</description>
 		<category>Categories</category>
 
@@ -36,11 +36,11 @@ Note that the <link> and <source url> will usually be the same.
 -->	
 
 		<item>
-			<title>#BelshawBlackOps22</title>
-			<link>https://dougbelshaw.com/blog/2022/12/16/belshawblackops22/</link>
-			<source url="https://dougbelshaw.com/blog/2022/12/16/belshawblackops22/">dougbelshaw.com</source>
-			<description>I'm taking some time off being ever-present online. See you in 2023!</description>
-			<pubDate>Sat, 16 December 2022 00:00:00 GMT</pubDate>
+			<title>Setting this thing up...</title>
+			<link>https://dougbelshaw.com//</link>
+			<source url="https://dougbelshaw.com">dougbelshaw.com</source>
+			<description>Not sure what I'm going to use this for yet!</description>
+			<pubDate>Sun, 20 October 2024 00:00:00 GMT</pubDate>
 		</item>
 
 	</channel>
