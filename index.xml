@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<!-- XSLT document to transform the RSS feed into an XHTML page. -->
+<?xml-stylesheet type="text/xsl" href="./rss.xsl" media="screen" ?>
+<rss version="2.0">
+	
+	<!-- Update the details below with those of the cloned repository -->
+	<channel>
+		<image>
+  		<url>https://github.com/dajbelshaw/styled-rss/blob/main/img/rss-icon.png?raw=true</url>
+  		<title>Logo</title>
+		<link>https://dajbelshaw.github.io/styled-rss</link>
+		</image>
+		<title>Title</title>
+		<link>https://dajbelshaw.github.io/styled-rss</link>
+ 		<description>Description</description>
+		<category>Categories</category>
+
+
+<!-- 
+This is the format for entries. Duplicate it as many times as you wish. 
+
+Guide to using special characters in XML - https://www.dvteclipse.com/documentation/svlinter/How_to_use_special_characters_in_XML.3F.html
+
+Copy/paste the following and fill it in:
+
+		<item>
+			<title></title>
+			<link></link>
+			<source url=""></source>
+			<description></description>
+			<pubDate></pubDate>
+		</item>
+
+Note that the <link> and <source url> will usually be the same. 
+
+-->	
+
+		<item>
+			<title>#BelshawBlackOps22</title>
+			<link>https://dougbelshaw.com/blog/2022/12/16/belshawblackops22/</link>
+			<source url="https://dougbelshaw.com/blog/2022/12/16/belshawblackops22/">dougbelshaw.com</source>
+			<description>I'm taking some time off being ever-present online. See you in 2023!</description>
+			<pubDate>Sat, 16 December 2022 00:00:00 GMT</pubDate>
+		</item>
+
+	</channel>
+</rss>
