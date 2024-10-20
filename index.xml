@@ -38,7 +38,7 @@ Note that the <link> and <source url> will usually be the same.
 		<item>
 			<title>Setting this thing up...</title>
 			<link>https://dajbelshaw.github.io/zeugma</link>
-			<source url="https://dajbelshaw.github.io/zeugma" />
+			<source url="https://dajbelshaw.github.io/zeugma">Zeugma</source>
 			<description>Not sure what I'm going to use this for yet&#33;</description>
 			<pubDate>Sun, 20 October 2024 00:00:00 GMT</pubDate>
 		</item>
