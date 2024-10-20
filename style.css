@@ -15,17 +15,17 @@
   --line-height: 1.618;
 
   /* Default  theme */
-    --bg: #212121;
-    --accent-bg: #2B2B2B;
-    --text: #DCDCDC;
-    --text-light: #ABABAB;
-    --border: #666;
-    --accent: #FFB300;
-    --accent-light: #FFECB3;
-    --code: #F06292;
-    --preformatted: #CCC;
-    --disabled: #111;
-    --marked: #DCDCDC;
+    --bg: #2e3440;
+    --accent-bg: #3b4252;
+    --text: #d8dee9;
+    --text-light: #d8dee9;
+    --border: #e5e9f0;
+    --accent: #d8dee9;
+    --accent-light: #d8dee9;
+    --code: #8fbcbb;
+    --preformatted: #d8dee9;
+    --disabled: #bf616a;
+    --marked: #ebcb8b;
 }
 
 /*
