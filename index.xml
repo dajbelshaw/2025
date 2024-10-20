@@ -37,8 +37,8 @@ Note that the <link> and <source url> will usually be the same.
 
 		<item>
 			<title>Setting this thing up...</title>
-			<link>https://dougbelshaw.com//</link>
-			<source url="https://dougbelshaw.com">dougbelshaw.com"></source>
+			<link>https://dougbelshaw.com</link>
+			<source url="https://dougbelshaw.com">dougbelshaw.com</source>
 			<description>Not sure what I'm going to use this for yet&#33;</description>
 			<pubDate>Sun, 20 October 2024 00:00:00 GMT</pubDate>
 		</item>
